@@ -16,4 +16,4 @@ dipy
 xvfbwrapper
 scitools3
 future
-jupyter notebook==5.7.5
+notebook==5.7.5
